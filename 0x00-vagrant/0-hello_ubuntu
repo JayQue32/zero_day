@@ -1,1 +1,1 @@
-the command uname would show the name of the window or operating system the user is on 
+the command uname printed "Darwin" when run without an option 
